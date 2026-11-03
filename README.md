@@ -32,3 +32,19 @@ Durante la elaboración del Trabajo Práctico N.º 4 se utilizó ChatGPT como he
 **Validación humana:** Los integrantes del grupo son responsables de revisar los contenidos generados, contrastarlos con el caso de estudio de Ka'nalu y realizar las correcciones necesarias antes de la entrega.
 
 **Responsabilidad intelectual:** Santiago Nahuel Esquivel y Facundo Gabriel Gomez asumen la responsabilidad por el contenido académico, las decisiones de diseño y las conclusiones del proyecto.
+
+## Gestión ágil del proyecto
+
+El proyecto se organiza mediante un tablero Kanban en GitHub Projects, que permite gestionar las actividades, asignar responsables y visualizar su progreso.
+
+[Consultar tablero ágil](https://github.com/users/facugomez1266-ctrl/projects/1)
+
+### Historias de usuario
+
+- HU-01: Descuento automático de stock.
+- HU-02: Alerta de reposición de inventario.
+- HU-03: Consulta de inventario actualizado.
+
+Las actividades se clasifican en tres estados: Todo, In Progress y Done.
+
+El trabajo colaborativo se documenta mediante Issues, ramas, Pull Requests y revisiones entre los integrantes.
